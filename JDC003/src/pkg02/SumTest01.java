@@ -9,8 +9,14 @@ public class SumTest01 {
 	int  b = s.nextInt();
 	
 	int c=a+b;
+	int d=2*c;
 	
-	System.out.println(c);
+	if (a<100 || b<200){
+		System.out.println("The sum is "+c);
+	}else{
+		System.out.println("The sum is "+d);
+	}
+
 	}
 
 }
