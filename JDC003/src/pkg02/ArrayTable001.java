@@ -7,7 +7,7 @@ public class ArrayTable001 {
 		int ac[]={25, 10, 39, 88, 78, 98};
 		
 		for(int counter=0;counter<ac.length;counter++){
-			System.out.println(1+counter+"\t"+ac[counter]);
+			System.out.println(" "+1+counter+"\t "+ac[counter]);
 		}
 	}
 
