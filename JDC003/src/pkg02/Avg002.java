@@ -14,7 +14,7 @@ public class Avg002 {
 			
 	        
 	        for(i=0; i<6; i++) { 
-	           System.out.print("Enter Marks of Subject"+(i+1)+":");
+	           System.out.print("Enter Marks of Subject "+(i+1)+":");
 	           marks[i] = scanner.nextInt();
 	           total = total + marks[i];
 	        }
