@@ -23,6 +23,6 @@ public class ArrayTble002 {
 		System.out.println();
 		System.out.println("Total number of marks obtained are "+total+".");
 		System.out.println();
-		System.out.println("The percentage obtained is "+percent+".");
+		System.out.println("The percentage obtained is "+percent);
 	}
 }
