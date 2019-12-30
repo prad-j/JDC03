@@ -2,7 +2,7 @@ package pkg02;
 
 public class PrimeNum001 {
 	public static void main(String args[]){
-		int n=39;
+		int n=10;
 		int m;
 		int f =0;
 		
@@ -16,9 +16,7 @@ public class PrimeNum001 {
 					System.out.println(n+" is not a prime number.");
 					f=1;
 					break;
-				}else{
-					
-				}			
+				}		
 				
 			}if(f==0){
 				System.out.println(n+" is a prime number.");
