@@ -2,7 +2,7 @@ package pkg02;
 
 public class ArrayTble {
 	public static void main(String args[]){
-		int ar[]={88,89,98,95,68,69,78,99};
+		int ar[]={88,89,98,95,68,69,78,99,97,100};
 		
 		System.out.println("Index \t value");
 		
