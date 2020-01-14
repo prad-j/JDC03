@@ -5,7 +5,7 @@ public class EnhancedForLoop002 {
 		int ar[]={2,6,4,1,3,2};
 	
 		for(int x:ar){
-			System.out.println(x);
+			System.out.print(x+" ");
 		}
 	}
 
