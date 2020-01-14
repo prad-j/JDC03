@@ -26,7 +26,7 @@ public class ArrayInMethod003 {
 	
 	public static void prnt(int z[]){
 		for(int s:z){
-			System.out.println(s);
+			System.out.print(s);
 		}
 	}
 }
