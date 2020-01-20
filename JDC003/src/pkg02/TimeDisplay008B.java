@@ -1,9 +1,9 @@
 package pkg02;
 
 public class TimeDisplay008B {
-	private int hour;
-	private int minute;
-	private int second;
+	 private int hour;
+	 private int minute;
+	 private int second;
 	
 	public void setTime(int h, int m, int s){
 		hour=((h >= 0 && h<24) ? h : 0);
