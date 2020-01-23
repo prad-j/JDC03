@@ -13,6 +13,6 @@ public class ToStrg001B {
 		System.out.printf("Constructor for this object is %s\n",this);
 	} 
 	public String toString(){
-		return String.format("%d:%d:%d", day, month, year);
+		return day+" "+month+" "+year;
 	}
 }
