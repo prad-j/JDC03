@@ -3,8 +3,6 @@ package pkg02;
 import java.util.Arrays;
 import java.util.Collections;
 
-import java.util.Collections;
-
 public class ArrayMin001 {
 	public static void main(String args[]){
 		Integer arr[] ={55,6,68,98,32,23};
