@@ -7,7 +7,7 @@ public enum Cdesc001B {
 	Ranbir("Acting", "36");
 	
 	private final String prof;
-	private String age;
+	private final String age;
 	
 	Cdesc001B (String pro, String years){
 		prof=pro;
