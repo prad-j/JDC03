@@ -16,7 +16,7 @@ public class IfElse001 {
 				System.out.println("Child is more than 1 yr but less than 5 yrs age");
 			}else{
 				if(a<5){
-					System.out.println("Child is more than 5 yr but less than 8 yrs age");
+					System.out.println("Child is more than 3 yr but less than 8 yrs age");
 				}else{
 					if(a<12){
 						System.out.println("Child is more than 5 yr but less than 12 yrs age");
