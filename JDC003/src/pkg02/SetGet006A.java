@@ -11,5 +11,7 @@ public class SetGet006A {
 		System.out.printf("%s\n", obj01.toMilitary());
 		System.out.printf("%s\n", obj02.toMilitary());
 		System.out.printf("%s\n", obj03.toMilitary());
+		
+		System.out.println(obj);
 	}
 }
