@@ -9,7 +9,11 @@ public class Static007A {
 		
 		System.out.println("-----------------------------");
 		System.out.println(obj1.getFName());
-		System.out.println(obj2.getLName());
-		System.out.println(obj2.getMembers());
+		System.out.println(obj1.getLName());
+		System.out.println(obj1.getMembers());
+		
+		System.out.println("-----------------------------");
+		
+		System.out.println(Static007B.getMembers());
 	}
 }

@@ -18,7 +18,7 @@ public class Static007B {
 	public String getLName(){
 		return lName;
 	}
-	public int getMembers(){
+	public static int getMembers(){
 		return members;
 	}
 	
